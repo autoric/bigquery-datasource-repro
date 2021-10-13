@@ -25,6 +25,6 @@ datasources:
     url: <url>
     secureJsonData:
       basicAuthPassword: <password>
-    isDefault: false
+    isDefault: true
     version: 2
     editable: true
